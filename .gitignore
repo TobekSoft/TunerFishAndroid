@@ -1,0 +1,26 @@
+# Gradle / Android build output
+.gradle/
+.kotlin/
+build/
+/local.properties
+*.apk
+*.aab
+
+# IntelliJ / Android Studio (keep shared run configs, ignore per-user state)
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/caches
+.idea/**/libraries
+.idea/**/deploymentTargetSelector.xml
+*.iml
+
+# Signing keys and licences must never be committed
+*.jks
+*.keystore
+keystore.properties
+
+# Claude Code per-user settings
+.claude/settings.local.json

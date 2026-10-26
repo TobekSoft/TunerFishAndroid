@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The ONE place for the display name: launcher, Jellyfin's device list (Client=), sign-in screen. -->
+    <string name="app_name">TunerFish</string>
+</resources>
